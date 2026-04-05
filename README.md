@@ -1,5 +1,4 @@
-# yt-downloader-free
-Download YouTube videos in MP4 or MP3 with quality selection
+⬇️ Download: https://github.com/yourusername/yt-downloader-free/releases
 # 🎬 YT Downloader Free
 
 Download YouTube videos and audio easily with a clean UI.
