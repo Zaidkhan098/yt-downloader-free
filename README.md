@@ -1,4 +1,4 @@
-⬇️ Download: https://github.com/yourusername/yt-downloader-free/releases
+⬇️ Download: https://github.com/Zaidkhan098/yt-downloader-free/releases
 # 🎬 YT Downloader Free
 
 Download YouTube videos and audio easily with a clean UI.
